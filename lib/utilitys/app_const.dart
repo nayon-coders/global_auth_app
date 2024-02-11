@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';class AppConst{  static const String app_logo = "assets/images/logo.png";}
