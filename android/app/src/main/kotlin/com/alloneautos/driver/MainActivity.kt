@@ -1,4 +1,4 @@
-package com.example.driver
+package com.alloneautos.driver
 
 import io.flutter.embedding.android.FlutterActivity
 

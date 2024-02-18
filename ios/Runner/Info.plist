@@ -47,5 +47,16 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>Alloneout Driver app needs access to location when open.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Alloneout Driver app needs access to location when in the background.</string>
+
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Alloneout Driver App needs access to photo lib for profile images</string>
+
+    <key>NSCameraUsageDescription</key>
+    <string>To capture profile photo please grant camera access</string>
 </dict>
 </plist>
